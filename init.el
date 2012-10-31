@@ -31,7 +31,7 @@
 (setq global-mode-string (message "  %s  " user-full-name))
 
 ;; debug begin, show error stack trace.
-;; (setq debug-on-error t)
+(setq debug-on-error t)
 
 (defvar vendor-dir (concat user-emacs-directory "vendor/")
   "The root folder of external packages")
