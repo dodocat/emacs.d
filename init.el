@@ -26,8 +26,8 @@
 (require 'cl)
 
 ;; Who am I?
-(setq user-full-name "Huang Bin")
-(setq user-mail-address "embrace.hbin@gmail.com")
+(setq user-full-name "Jing Quanqi")
+(setq user-mail-address "jingquanqi@gmail.com")
 (setq global-mode-string (message "  %s  " user-full-name))
 
 ;; debug begin, show error stack trace.
